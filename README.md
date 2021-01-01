@@ -9,13 +9,9 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 ## How to install IP-Tracer ?
 
-* `apt update`
+* `apt update && apt install git -y && git clone https://github.com/Marshmellow098/IP-Tracker-.git && ls && cd IP-Tracker- && ls`
 
-* `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/IP-Tracer.git`
-
-* `cd IP-Tracer`
 
 * `chmod +x install`
 
